@@ -118,9 +118,5 @@ Stage.respond = function (verb) {
 	}
 }
 
-var Third = new Game_Object("third", ["look"])
-
-
-add_game_object(Third)
 add_game_object(Field)
 
